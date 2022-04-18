@@ -1,4 +1,4 @@
-# (c) Clemens Brunner, licensed under the BSD 3-Clause license
+
 
 from scipy.io import loadmat
 import mne
