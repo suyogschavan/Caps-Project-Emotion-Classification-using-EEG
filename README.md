@@ -1,7 +1,6 @@
 # Caps-Project-Emotion-Classification-using-EEG
 <h1 align="center">Hi 👋, I'm Suyog</h1>
-<h3 align="center">A passionate software developer from India. Interested in Python programming and machine learning</br>
-This is a group project that we've made to detect emotions from EEG data. Under the guidence of prof. Ohal mam 
+<h3 align="center">A passionate software developer from India. Interested in Python programming and machine learning</br> 
 </h3>
 </br>
 <h4>
